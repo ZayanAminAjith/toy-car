@@ -1,0 +1,11 @@
+Model Information:
+* title:	Micro Impreza
+* source:	https://sketchfab.com/3d-models/micro-impreza-3ab6ef0bf46e49bb84fc122640a521ea
+* author:	TimoShch (https://sketchfab.com/TimoShch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Micro Impreza" (https://sketchfab.com/3d-models/micro-impreza-3ab6ef0bf46e49bb84fc122640a521ea) by TimoShch (https://sketchfab.com/TimoShch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
